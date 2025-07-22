@@ -11,8 +11,8 @@
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
 1. `Выполнение команд из задания `
-![alt text](https://github.com/thereal669/gitlab_8-03/img/Screenshot_1.jpg)
-![alt text](https://github.com/thereal669/gitlab_8-03/img/Screenshot_2.jpg)
+![alt text](https://github.com/thereal669/gitlab_8-03/tree/main/img/Screenshot_1.jpg)
+![alt text](https://github.com/thereal669/gitlab_8-03/tree/main/img/Screenshot_2.jpg)
 
 
 
@@ -25,7 +25,7 @@
 файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне;
 скриншоты с успешно собранными сборками.
 
-![alt text](https://github.com/thereal669/gitlab_8-03/img/Screenshot_3.jpg)
+![alt text](https://github.com/thereal669/gitlab_8-03/gitlab_8-03/tree/main/img/Screenshot_3.jpg)
 ```
 
 ```
